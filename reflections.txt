@@ -1,0 +1,15 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  
+* What new skills have you learned?
+
+1. <strike> & <s> can make a strikethrough --> use <del> instead in the future.
+2. <i> vs. <em> : same effect but different use, <i> is for italic and <em> is for emphasis.
+3. use <p> to make a paragraph.
+* What has been easy?
+  
+Insert the img:P
+* What has been difficult?
+  
+Configure the margin! First I use <br/> and set width for the horizontal rule, then I thought the task should not be so stupid, so I changed to set width for whole div, but still need one <br/>, feel uncomfortable about this.
+* How have you used the problem solving strategies from the first project to overcome challenges so far?
+For this very first project I think it don't need too much problem solving strategies, on the other hand I tried what I thought should work and choose the best one, not only do it to finish this task, but also can learn more. 
