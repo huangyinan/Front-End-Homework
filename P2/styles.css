@@ -1,0 +1,63 @@
+/* 添加 CSS */
+#AnimalCard {
+  margin-bottom: 20px;
+  width: 325px;
+  background: #666;
+  border: 3px solid #FFF;
+  box-shadow: 6px 6px 20px #333;
+  border-radius: 20px;
+  padding: 5px;
+}
+
+.picture {
+  margin-left: 6px;
+  padding: 0;
+  text-align:center;
+  border-radius: 4px;
+  box-shadow: 6px 6px 10px #FFF;
+}
+
+.title {
+  padding-left: 6px;
+}
+
+.InfoList {
+  margin-bottom: 20px;
+  padding:0;
+  text-align:left;
+}
+
+.detail {
+  margin-bottom: 20px;
+  border: 1px hidden #777;
+  border-radius: 5px;
+}
+
+.interest {
+  margin-bottom: 20px;
+  border: 1px inset #777;
+  border-radius: 5px;
+}
+
+.discription {
+  border: 3px solid #FFF;
+  border-radius: 10px;
+  padding: 5px;
+}
+
+body {
+  font-family: sans-serif;
+  color: #FFF;
+}
+
+li {
+  list-style-type:none;
+  margin-bottom: 6px;
+}
+
+span {
+  background-color: #333;
+  box-shadow: 0 0 5px #333;
+  border-radius: 5px;
+  padding-left: 6px;
+}
