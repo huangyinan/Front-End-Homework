@@ -18,9 +18,17 @@ body {
 
 .title-logo {
   margin-top: 20px;
+  height: 100px;
 }
 
 .hr-bold {
   color: #7d97ad;
   size: 50;
+}
+
+.hr {
+  background-color: #7d97ad;
+  height: 5px;
+  margin-top: 20px;
+  margin-bottom: 30px;
 }
